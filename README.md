@@ -32,7 +32,7 @@ Detected targets (humans, drones, or animals) are tracked using servo correction
 - **Mechanical System:**  
   - Custom-built all-terrain chassis.  
   - Dual-axis **pan-tilt gimbal** for precise camera tracking.  
-  - LED/MOSFET signaling and modular power distribution.
+  - MOSFET Drive trigger for animal detterence system and anti-drone system.
 
 ---
 
